@@ -1,1 +1,1 @@
-# NLWOriginDoctorCare Projeto desenvolvido com a rocketseat (NLW Origin) para a criação de um site para atendimento médico com HTML, CSS e JavaScript.
+# NLWOriginDoctorCare Projeto desenvolvido com a rocketseat (NLW Origin) para a criação de um site para atendimento médico com HTML, CSS e JavaScript. Disponível em: 'https://thiagopalhares77.github.io/NLWOriginDoctorCare/'
